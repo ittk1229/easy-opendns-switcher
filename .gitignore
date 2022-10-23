@@ -1,0 +1,7 @@
+.vscode
+.venv
+
+user_info.json
+
+__pycache__
+*.ipynb
