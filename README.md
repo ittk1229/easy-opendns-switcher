@@ -51,4 +51,4 @@ I don't test environment under Mac.
 
 ## Licence
 
-"Easy toggle OpenDNS" is under [MIT Licence](https://en.wikipedia.org/wiki/MIT_License).
+"Easy OpenDNS switcher" is under [MIT Licence](https://en.wikipedia.org/wiki/MIT_License).
